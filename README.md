@@ -190,13 +190,13 @@ Analise-VarejoMax-Distribuidora/
 
 ---
 
-## Valor para o currículo (ATS)
+
 
 **Projeto de Business Intelligence | Power BI**
 
 Desenvolvimento de dashboard executivo utilizando **Power Query, modelagem dimensional (Star Schema) e DAX** para análise de faturamento, ticket médio, desempenho de vendedores, filiais e canais de venda. Implementação de métricas com inteligência temporal, ETL e visualizações interativas voltadas ao suporte à tomada de decisão.
 
-### Palavras-chave ATS
+### Palavras-chave 
 
 `Power BI` • `DAX` • `Power Query` • `ETL` • `Star Schema` • `Business Intelligence` • `Dashboard` • `Data Analysis` • `KPI` • `Modelagem de Dados`
 
